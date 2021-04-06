@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AT_HomeTask2">
+  <test name="Amazon Tests Chrome">
+    <classes>
+      <class name="com.amazon.test.AmazonSearchTest" />
+      <class name="com.amazon.test.AddToBasketTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
